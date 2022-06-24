@@ -1,6 +1,6 @@
 {
-  "name": "fullstack-example-backend",
-  "version": "0.5.2",
+  "name": "backend-example-nestjs",
+  "version": "0.6.0",
   "license": "MIT",
   "scripts": {
     "oidc-provider": "ts-node script/oidc-provider",
