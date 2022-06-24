@@ -1,4 +1,4 @@
-# fullstack-example-backend
+# backend-example-nestjs
 
 A simple Nest.js project that serves REST APIs for TODO web app.
 
