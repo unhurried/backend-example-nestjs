@@ -1,6 +1,6 @@
 import { Field, ObjectType } from '@nestjs/graphql';
 import { MaxLength, IsEnum, IsOptional } from 'class-validator';
-import { Category } from 'src/resource/todo';
+import { Category } from '../resource/todo';
 
 @ObjectType()
 export class Todo {

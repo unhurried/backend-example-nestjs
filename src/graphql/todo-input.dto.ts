@@ -1,5 +1,5 @@
 import { Field, InputType } from "@nestjs/graphql";
-import { Category } from "src/resource/todo";
+import { Category } from "../resource/todo";
 
 @InputType()
 export class TodoInput {
